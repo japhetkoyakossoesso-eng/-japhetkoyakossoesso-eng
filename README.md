@@ -123,7 +123,16 @@
 
 ## 📊 GitHub Stats
 
-> **⚠️ Important :** Pour que ces stats s'affichent, tu dois créer un **repo public** portant exactement le nom de ton username : `japhetkoyakossoesso-eng`, et y placer ce `README.md` ainsi que `banner.svg`.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=japhetkoyakossoesso-eng&show_icons=true&hide_border=true&count_private=true&title_color=ffd700&icon_color=ffd700&text_color=a8c4e8&bg_color=0a0f2c" height="165"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=japhetkoyakossoesso-eng&layout=compact&hide_border=true&title_color=ffd700&text_color=a8c4e8&bg_color=0a0f2c" height="165"/>
+
+</div>
 
 <div align="center">
 
