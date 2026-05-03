@@ -6,7 +6,6 @@
 <div align="center">
 
 [![First Global Challenge 2023](https://img.shields.io/badge/🤖_First_Global_Challenge-Singapour_2023-b8860b?style=flat&labelColor=0a0f2c)](https://first.global)
-[![First Global Challenge 2024](https://img.shields.io/badge/🤖_First_Global_Challenge-Athènes_2024-b8860b?style=flat&labelColor=0a0f2c)](https://first.global)
 
 </div>
 
@@ -15,11 +14,11 @@
 ## 🧑‍💻 À propos de moi
 
 - 🎓 Étudiant en **L2 MIASHS** (Mathématiques Informatiques Appliquées aux Sciences Humaines et Sociales) · UT2J Toulouse
-- 🔍 En recherche d'une **alternance Data Engineering / Développement** (2025–2026)
+- 🔍 En recherche d'une **alternance Data Engineering / Développement** (2026–2027)
 - 🤟 Développeur solo de **Signum HandSpeak** — traduction LSF par vision par ordinateur (OpenCV · MediaPipe · TensorFlow)
-- 🤖 **2× représentant de la République Centrafricaine 🇨🇫** au First Global Challenge — Singapour 2023 · Athènes 2024
+- 🤖 ** représentant de la République Centrafricaine 🇨🇫** au First Global Challenge — Singapour 2023 
 - 💼 Expérience en développement web (stage · HTML/CSS/JS · Web-atrio)
-- 🎯 Objectif long terme : **Master Data Science / IA**, puis carrière en Machine Learning appliqué
+- 🎯 Objectif long terme : **Master Machine learning  / IA / Data Science**, puis carrière en Machine Learning appliqué
 
 ---
 
@@ -115,14 +114,10 @@
 
 | Année | Événement | Détail |
 |-------|-----------|--------|
-| 2024 | 🌍 **First Global Challenge · Athènes** | Représentant 🇨🇫 — thème *Feeding the Future* |
 | 2023 | 🌍 **First Global Challenge · Singapour** | Représentant 🇨🇫 — thème *Hydrogen Horizons* |
 | 2024 | 💼 **Stage · Web-atrio** | Développement web HTML/CSS/JS aux côtés d'un développeur senior |
 
 ---
-
-## 📊 GitHub Stats
-
 
 ## 📊 GitHub Stats
 
