@@ -128,7 +128,7 @@
 | Année | Événement | Détail |
 |-------|-----------|--------|
 | 2023 | 🌍 **First Global Challenge · Singapour** | Représentant 🇨🇫 — thème *Hydrogen Horizons* |
-| 2024 | 💼 **Stage · Web-atrio** | Développement web HTML/CSS/JS aux côtés d'un développeur senior |
+| 2025 | 💼 **Stage · Web-atrio** | Développement web HTML/CSS/JS aux côtés d'un développeur senior |
 
 ---
 
@@ -139,6 +139,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japhetkoyakossoesso-eng&show_icons=true&hide_border=true&count_private=true&title_color=ffd700&icon_color=ffd700&text_color=a8c4e8&bg_color=0a0f2c)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhetkoyakossoesso-eng&layout=compact&hide_border=true&title_color=ffd700&text_color=a8c4e8&bg_color=0a0f2c)
+
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=japhetkoyakossoesso-eng&theme=dark&hide_border=true&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&background=0a0f2c&currStreakNum=a8c4e8&sideLabels=a8c4e8&sideNums=a8c4e8&dates=a8c4e8)](https://git.io/streak-stats)
 
 </div>
 
