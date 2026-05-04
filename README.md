@@ -13,16 +13,16 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en **L2 MIASHS** (Mathématiques Informatiques Appliquées aux Sciences Humaines et Sociales) · UT2J Toulouse
-- 🔍 En recherche d'une **alternance Data Engineering / Développement** (2026–2027)
-- 🤟 Développeur solo de **Signum HandSpeak** — traduction LSF par vision par ordinateur (OpenCV · MediaPipe · TensorFlow)
-- 🤖 ** représentant de la République Centrafricaine 🇨🇫** au First Global Challenge — Singapour 2023 
-- 💼 Expérience en développement web (stage · HTML/CSS/JS · Web-atrio)
-- 🎯 Objectif long terme : **Master Machine learning  / IA / Data Science**, puis carrière en Machine Learning appliqué
+- Étudiant en **L2 MIASHS** (Mathématiques Informatiques Appliquées aux Sciences Humaines et Sociales) · UT2J Toulouse
+- En recherche d'une **alternance Developpement / Data Engineering** (2026–2027)
+- Développeur solo de **Signum HandSpeak** — traduction LSF par vision par ordinateur (OpenCV · MediaPipe · TensorFlow)
+- **Représentant de la République Centrafricaine 🇨🇫** au First Global Challenge — Singapour 2023 
+- Expérience en développement web (stage · HTML/CSS/JS · Web-atrio)
+- Objectif long terme : **Master Machine Learning / IA / Data Science**, puis carrière en Machine Learning appliqué
 
 ---
 
-## 🛠️ Langages & Technologies
+## Langages & Technologies
 
 **Langages de programmation**
 
@@ -46,13 +46,14 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)](https://matplotlib.org)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat&logo=google&logoColor=white)](https://mediapipe.dev)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)](https://chartjs.org)
+[![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://openpyxl.readthedocs.io)
 
 **Bases de données**
 
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org)
 
-**Outils & Environnements**
+**Outils, Environnements & BI**
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
@@ -60,17 +61,29 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)](https://posit.co)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://microsoft.com/excel)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](#)
 
 ---
 
-## 🚀 Projets phares
+## Projets phares
 
-### 🤟 Signum HandSpeak *(en cours · 2026)*
+### Signum HandSpeak *(en cours · 2026)*
 > Traduction de la langue des signes française (LSF) en temps réel via vision par ordinateur.  
 > Développé en **solo** sur 4 mois.
 >
 > **Stack :** Python · OpenCV · MediaPipe · scikit-learn (Random Forest) · TensorFlow / LSTM
+
+---
+
+### Excel Invoice Generator *(2026)*
+> Outil Python d'automatisation de génération de factures clients à partir de fichiers Excel.  
+> Le programme scanne un dossier, valide la structure des fichiers `.xlsx`, extrait les données de commandes, agrège par client et génère automatiquement une facture individuelle pour chaque client.
+>
+> Conçu pour éliminer les tâches répétitives de traitement de données et réduire les erreurs manuelles.
+>
+> **Stack :** Python · openpyxl · os · datetime  
+> *Projet personnel · développé en solo*
 
 ---
 
