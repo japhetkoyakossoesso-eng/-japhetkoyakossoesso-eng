@@ -135,6 +135,19 @@
 
 ---
 
+### 🧠 [Quiz — John von Neumann](https://github.com/japhetkoyakossoesso-eng/ProjetWeb-quiz-sur-un-c-l-bre) *(2025–2026)*
+> Application web complète et responsive dédiée à **John von Neumann**, père de l'architecture des ordinateurs modernes. Développée en solo en 3 étapes progressives (maquette → CSS → JavaScript dynamique).
+>
+> - **4 pages** : accueil, biographie, œuvre, quiz interactif
+> - **Quiz 10 questions** : tableau d'objets JS, scoring automatique, 5 niveaux de feedback personnalisés, explications détaillées par question, validation des entrées, bouton recommencer
+> - **Design responsive** Bootstrap 5.3 (mobile · tablette · desktop), palette de couleurs de la carte "Machines & Composants" (`#281B1C`), animations CSS (`@keyframes`, transitions, scroll automatique)
+> - **Validé W3C** HTML5 & CSS3 · testé sur Chrome, Firefox, Edge, Safari · déployé sur le serveur de l'UT2J
+>
+> **Stack :** HTML5 · CSS3 · JavaScript ES6+ · Bootstrap 5.3  
+> *Projet académique solo · UE Client Web · UT2J · Note obtenue en L2*
+
+---
+
 ### 🌱 [Ma Semaine Verte](https://github.com/japhetkoyakossoesso-eng/ma_semaine_verte) *(2026)*
 > Application web HTML/CSS sur la thématique du développement durable et des habitudes éco-responsables.
 >
@@ -154,6 +167,19 @@
 > Projet de transition et d'apprentissage : cinémathèque web avec requêtes SQL JOIN, filtre par genre, formulaires d'ajout/suppression de films — passage du développement Python vers PHP/MariaDB.
 >
 > **Stack :** PHP · MariaDB · HTML · CSS
+
+---
+
+### 🤖 [Initiation à l'Apprentissage Automatique & IA Générative](https://github.com/japhetkoyakossoesso-eng/Initiation_A_Lapprentissage_automatique) *(2025–2026)*
+> Projet académique pluridisciplinaire couvrant les fondements de l'intelligence artificielle moderne et symbolique.
+>
+> - **Analyse comparative de LLMs** : étude approfondie de ChatGPT (OpenAI), DeepSeek et Le Chat (Mistral) — approches d'apprentissage, sources d'entraînement, localisation des serveurs, accessibilité du code source, modalités d'utilisation
+> - **IA symbolique avec Prolog** : implémentation d'une base de connaissances nutritionnelles (16 aliments, glucides/lipides/protides), requêtes logiques sur les laitages, protéines, composition de menus équilibrés et calcul de macronutriments
+> - **Benchmark de modèles** : évaluation comparative via Comparia (beta.gouv.fr) — analyse des licences, estimation des paramètres, impact énergétique, modèles frugaux (taille XS vs XL)
+> - **Modélisation des interactions Humain-Machine** : schémas d'architecture pour les échanges avec une IA générative vs un programme Prolog
+>
+> **Stack :** Prolog · Python · IA générative (ChatGPT · DeepSeek · Mistral)  
+> *Projet académique · UE MI0C405T Introduction à l'IA · UT2J*
 
 ---
 
@@ -196,7 +222,6 @@
 
 </div>
 
----
 
 ## 📫 Me contacter
 
@@ -207,7 +232,6 @@
 
 </div>
 
----
 
 <div align="center">
 
