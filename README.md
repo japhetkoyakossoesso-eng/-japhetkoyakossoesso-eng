@@ -142,6 +142,14 @@
 
 ---
 
+### 📈 [Développement App Web — Bibliothèque Chart.js](https://github.com/japhetkoyakossoesso-eng/developpement_app_web_biblio_chart) *(2025–2026)*
+> Application web de visualisation de données d'inscriptions étudiantes à l'UT2J (L2 MIASHS) via la bibliothèque Chart.js. Graphiques en barres et en courbes, multi-séries hommes/femmes, intégration de l'API OpenData du ministère de l'Enseignement Supérieur. Page individuelle avec comparaisons originales de données.
+>
+> **Stack :** JavaScript · HTML · CSS · Chart.js · REST API  
+> *Projet académique en groupe · UT2J*
+
+---
+
 ### 🎬 [Du Python au PHP](https://github.com/japhetkoyakossoesso-eng/Du_python_au_PHP) *(2026)*
 > Projet de transition et d'apprentissage : cinémathèque web avec requêtes SQL JOIN, filtre par genre, formulaires d'ajout/suppression de films — passage du développement Python vers PHP/MariaDB.
 >
