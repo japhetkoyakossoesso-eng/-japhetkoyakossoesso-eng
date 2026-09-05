@@ -70,7 +70,7 @@
 > 5 200 échantillons · Random Forest 100% de précision · LSTM pour gestes dynamiques · interface Tkinter · synthèse vocale · export PDF.
 >
 > **Stack :** Python · OpenCV · MediaPipe · scikit-learn · TensorFlow / LSTM · Tkinter  
-> *Projet personnel · développé avec mon frère (infrastructure/sécurité)*
+> *Projet personnel · (infrastructure/sécurité)*
 
 ---
 
@@ -105,7 +105,7 @@
 ---
 
 ### 🌐 [Mon Portfolio](https://github.com/japhetkoyakossoesso-eng/Mon_porfolio) *(2026)*
-> Portfolio personnel développé en HTML/CSS pour présenter mes projets et compétences.
+> Pas encore mise à jour, Portfolio personnel développé en HTML/CSS pour présenter mes projets et compétences.
 >
 > **Stack :** HTML · CSS
 
@@ -183,7 +183,7 @@
 
 ---
 
-### 🧾 Excel Invoice Generator *(2026)*
+### 🧾 [Excel Invoice Generator](https://github.com/japhetkoyakossoesso-eng/Projet_factures_excel.git) *(2026)*
 > Outil Python d'automatisation de génération de factures clients à partir de fichiers Excel. Scan de dossier, validation de structure `.xlsx`, extraction et agrégation des commandes par client, génération automatique de factures individuelles.
 >
 > **Stack :** Python · openpyxl · os · datetime  
@@ -191,14 +191,14 @@
 
 ---
 
-### 🚌 Tisseo API Web App *(2026)*
+### 🚌 [Tisseo API Web App](https://github.com/japhetkoyakossoesso-eng/Projet_Qualit-_de_l_Air_En_Occitanie.git) *(2026)*
 > Application web JavaScript/AJAX interrogeant l'API OpenData Tisseo pour afficher lignes et arrêts de transport en commun de Toulouse, avec déduplication via `Set`.
 >
 > **Stack :** JavaScript · HTML · CSS · AJAX · Chart.js · REST API
 
 ---
 
-### 🏠 DomoHouse System *(2026)*
+### 🏠 [DomoHouse System](https://github.com/japhetkoyakossoesso-eng/Projet_ingSI_2.git)*(2026)*
 > Interface domotique Python/Tkinter avec thème clair/sombre, gestion de maisons et pièces, intégration Pillow pour le traitement d'images.
 >
 > **Stack :** Python · Tkinter · Pillow  
