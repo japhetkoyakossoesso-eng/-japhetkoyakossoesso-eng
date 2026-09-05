@@ -1,28 +1,20 @@
-<!-- BANNIÈRE — place banner.svg à la racine de ton repo japhetkoyakossoesso-eng -->
 <div align="center">
   <img src="./banner.svg" alt="Japhet KOYAKOSSO-ESSO" width="100%"/>
 </div>
 
-<div align="center">
-
-[![First Global Challenge 2023](https://img.shields.io/badge/🤖_First_Global_Challenge-Singapour_2023-b8860b?style=flat&labelColor=0a0f2c)](https://first.global)
-
-</div>
-
----
 
 ## 🧑‍💻 À propos de moi
 
-- Étudiant en **L2 MIASHS** (Mathématiques Informatiques Appliquées aux Sciences Humaines et Sociales) · UT2J Toulouse
-- En recherche d'une **alternance Developpement / Data Engineering** (2026–2027)
-- Développeur solo de **Signum HandSpeak** — traduction LSF par vision par ordinateur (OpenCV · MediaPipe · TensorFlow)
-- **Représentant de la République Centrafricaine 🇨🇫** au First Global Challenge — Singapour 2023 
-- Expérience en développement web (stage · HTML/CSS/JS · Web-atrio)
-- Objectif long terme : **Master Machine Learning / IA / Data Science**, puis carrière en Machine Learning appliqué
+- 🎓 Étudiant en **L3 MIASHS** (Mathématiques Informatiques Appliquées aux Sciences Humaines et Sociales) · UT2J Toulouse
+- 🔍 En recherche d'une **alternance Développement / Data Engineering** (2026–2027)
+- 🇨🇫 Originaire de la **République Centrafricaine**
+- 💼 Stagiaire développeur web chez **Web-atrio** (HTML/CSS/JS · SQL · MySQL)
+- 🎯 Objectif long terme : **Master Machine Learning / IA / Data Science**, puis carrière en ML appliqué
+- 📜 Certifié **Développeur Python — Formation Complète 2026** (Udemy · 69,5h)
+- 📊 En formation **Power BI** (Power Query · DAX · Power BI Service · préparation PL-300)
 
----
 
-## Langages & Technologies
+## 🛠️ Langages & Technologies
 
 **Langages de programmation**
 
@@ -35,6 +27,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
+[![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)](#)
 
 **Frameworks & Librairies**
 
@@ -47,11 +40,15 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat&logo=google&logoColor=white)](https://mediapipe.dev)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)](https://chartjs.org)
 [![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://openpyxl.readthedocs.io)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://djangoproject.com)
+[![Kivy](https://img.shields.io/badge/Kivy-000000?style=flat&logo=python&logoColor=white)](https://kivy.org)
 
 **Bases de données**
 
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://mysql.com)
 
 **Outils, Environnements & BI**
 
@@ -66,82 +63,122 @@
 
 ---
 
-## Projets phares
+## 🚀 Projets
 
-### Signum HandSpeak *(en cours · 2026)*
-> Traduction de la langue des signes française (LSF) en temps réel via vision par ordinateur.  
-> Développé en **solo** sur 4 mois.
+### 🤟 [Signum HandSpeak](https://github.com/japhetkoyakossoesso-eng/Projet_Signum_HandSpeak_) *(2026)*
+> Traduction de la langue des signes française (LSF) en temps réel via vision par ordinateur.
+> 5 200 échantillons · Random Forest 100% de précision · LSTM pour gestes dynamiques · interface Tkinter · synthèse vocale · export PDF.
 >
-> **Stack :** Python · OpenCV · MediaPipe · scikit-learn (Random Forest) · TensorFlow / LSTM
+> **Stack :** Python · OpenCV · MediaPipe · scikit-learn · TensorFlow / LSTM · Tkinter  
+> *Projet personnel · développé avec mon frère (infrastructure/sécurité)*
 
 ---
 
-### Excel Invoice Generator *(2026)*
-> Outil Python d'automatisation de génération de factures clients à partir de fichiers Excel.  
-> Le programme scanne un dossier, valide la structure des fichiers `.xlsx`, extrait les données de commandes, agrège par client et génère automatiquement une facture individuelle pour chaque client.
+### 🌌 [Projet Galaxy](https://github.com/japhetkoyakossoesso-eng/Projet_galaxy) *(2026)*
+> Jeu arcade Python/Kivy : endless runner pseudo-3D avec rendu en perspective, difficulté progressive, power-ups (pièces, boucliers, slow-motion), tuiles piégées, highscore persistant en JSON, effet de traînée du vaisseau.
 >
-> Conçu pour éliminer les tâches répétitives de traitement de données et réduire les erreurs manuelles.
+> **Stack :** Python · Kivy  
+> *Projet personnel*
+
+---
+
+### 🕹️ [Projet Kivy — Le Lab](https://github.com/japhetkoyakossoesso-eng/projet_kivy_lelab) *(2026)*
+> Projet d'apprentissage et d'expérimentation du framework Kivy pour le développement d'interfaces graphiques mobiles/desktop en Python.
+>
+> **Stack :** Python · Kivy (kvlang)
+
+---
+
+### 🍕 [Pizza Django](https://github.com/japhetkoyakossoesso-eng/Pizza_Django) *(2026)*
+> Application web back-end simulant le système de gestion d'une pizzeria : catalogue de pizzas stocké en base de données, rendu accessible via une interface web Django (MVT).
+>
+> **Stack :** Python · Django · HTML · CSS  
+> *Déployé sur PythonAnywhere*
+
+---
+
+### 📊 [Student Grade Prediction](https://github.com/japhetkoyakossoesso-eng/projet_prediction_notes_avec_machine_learning) *(2026)*
+> Pipeline ML complet pour prédire la note finale d'un étudiant en fonction de son comportement et engagement académique. Génération de dataset synthétique (`note_finale`, `mention`), EDA (8 visualisations), modélisation (Random Forest, régression logistique), interprétabilité, rapport RMarkdown.
+>
+> **Stack :** Python · scikit-learn · Pandas · Matplotlib · R · RMarkdown
+
+---
+
+### 🌐 [Mon Portfolio](https://github.com/japhetkoyakossoesso-eng/Mon_porfolio) *(2026)*
+> Portfolio personnel développé en HTML/CSS pour présenter mes projets et compétences.
+>
+> **Stack :** HTML · CSS
+
+---
+
+### 🔐 [Projet Backdoor](https://github.com/japhetkoyakossoesso-eng/projet_backdoor) *(2026)*
+> Projet éducatif de cybersécurité : implémentation d'un backdoor TCP socket en Python (shell distant, téléchargement de fichiers, capture d'écran) pour comprendre les mécanismes d'attaque et de défense.
+>
+> **Stack :** Python  
+> *Projet éducatif uniquement*
+
+---
+
+### 🌿 [Qualité de l'Air en Occitanie](https://github.com/japhetkoyakossoesso-eng/Projet_Qualit-_de_l_Air_En_Occitanie) *(2025–2026)*
+> Base de données SQLite normalisée (5 tables liées par code INSEE), pipeline ETL Python avec exports CSV, 15 requêtes SQL couvrant 5 problématiques. Rapport RMarkdown complet. **Note : 18,83/20.**
+>
+> **Stack :** Python · SQLite · SQL · R · RStudio · RMarkdown  
+> *Projet académique · Groupe 8 · UT2J*
+
+---
+
+### 🍽️ [Organisation de Repas de Groupe](https://github.com/japhetkoyakossoesso-eng/Projet_ingSI_2) *(2025–2026)*
+> Application pour organiser un repas de promotion : saisie des promesses d'apport (nom, prénom, catégorie, quantité), gestion des participants et répartition des contributions.
+>
+> **Stack :** Python · Tkinter  
+> *Licence Apache 2.0*
+
+---
+
+### 🌱 [Ma Semaine Verte](https://github.com/japhetkoyakossoesso-eng/ma_semaine_verte) *(2026)*
+> Application web HTML/CSS sur la thématique du développement durable et des habitudes éco-responsables.
+>
+> **Stack :** HTML · CSS
+
+---
+
+### 🎬 [Du Python au PHP](https://github.com/japhetkoyakossoesso-eng/Du_python_au_PHP) *(2026)*
+> Projet de transition et d'apprentissage : cinémathèque web avec requêtes SQL JOIN, filtre par genre, formulaires d'ajout/suppression de films — passage du développement Python vers PHP/MariaDB.
+>
+> **Stack :** PHP · MariaDB · HTML · CSS
+
+---
+
+### 🧾 Excel Invoice Generator *(2026)*
+> Outil Python d'automatisation de génération de factures clients à partir de fichiers Excel. Scan de dossier, validation de structure `.xlsx`, extraction et agrégation des commandes par client, génération automatique de factures individuelles.
 >
 > **Stack :** Python · openpyxl · os · datetime  
 > *Projet personnel · développé en solo*
 
 ---
 
-### 🌿 Qualité de l'Air en Occitanie *(2025–2026)*
-> Base de données SQLite normalisée (5 tables liées par code INSEE), 15 requêtes SQL couvrant 5 problématiques de recherche (disparités territoriales, pollution vs. indicateurs socio-économiques, influence météo, types de stations, tendances temporelles). Rapport complet en RMarkdown.
->
-> **Stack :** Python · SQLite · SQL · R · RStudio · RMarkdown  
-> *Projet académique en groupe de 4 · UT2J*
-
----
-
-### 🍽️ Organisation de Repas de Groupe *(2025–2026)*
-> Application Python/Tkinter pour organiser et planifier des repas en groupe : gestion des participants, menus et répartition des contributions.
->
-> **Stack :** Python · Tkinter
-
----
-
 ### 🚌 Tisseo API Web App *(2026)*
 > Application web JavaScript/AJAX interrogeant l'API OpenData Tisseo pour afficher lignes et arrêts de transport en commun de Toulouse, avec déduplication via `Set`.
 >
-> **Stack :** JavaScript · HTML · CSS · AJAX · REST API
+> **Stack :** JavaScript · HTML · CSS · AJAX · Chart.js · REST API
 
 ---
 
 ### 🏠 DomoHouse System *(2026)*
 > Interface domotique Python/Tkinter avec thème clair/sombre, gestion de maisons et pièces, intégration Pillow pour le traitement d'images.
 >
-> **Stack :** Python · Tkinter · Pillow · *Projet groupe*
+> **Stack :** Python · Tkinter · Pillow  
+> *Projet groupe · UT2J*
 
 ---
 
-### 📊 Student Grade Prediction *(2026)*
-> Pipeline ML complet : génération de dataset synthétique, EDA (8 visualisations), modélisation (Random Forest, régression logistique), interprétabilité, rapport RMarkdown.
->
-> **Stack :** Python · scikit-learn · Pandas · Matplotlib · R · RMarkdown
+## 💼 Expérience professionnelle
+
+| Période | Poste | Structure |
+|---------|-------|-----------|
+| Oct. 2025 – Déc. 2026 | 💻 **Stagiaire Développeur Web** | Web-atrio (ESN, Toulouse) — HTML/CSS/JS, SQL/MySQL, correction de bugs, travail avec un développeur senior |
 
 ---
-
-## 🏆 Distinctions & Expériences
-
-| Année | Événement | Détail |
-|-------|-----------|--------|
-| 2023 | 🌍 **First Global Challenge · Singapour** | Représentant 🇨🇫 — thème *Hydrogen Horizons* |
-| 2025 | 💼 **Stage · Web-atrio** | Développement web HTML/CSS/JS aux côtés d'un développeur senior |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japhetkoyakossoesso-eng&show_icons=true&hide_border=true&count_private=true&title_color=ffd700&icon_color=ffd700&text_color=a8c4e8&bg_color=0a0f2c)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhetkoyakossoesso-eng&layout=compact&hide_border=true&title_color=ffd700&text_color=a8c4e8&bg_color=0a0f2c)
-
-</div>
-
 
 ## 📊 GitHub Stats
 
